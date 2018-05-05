@@ -10,7 +10,7 @@ You need to have Kadot 1.0dev and this dependancies and python 3.x installed for
 # What is Kadot ?
 [Kadot](https://github.com/the-new-sky/Kadot) is a library created by [the-new-sky](https://github.com/the-new-sky) that want to allow to create chatbot using AI
 
-# How to use
+# How to use it
 
 The syntax of the command is : 
 
