@@ -1,0 +1,11 @@
+A report from AdAge claims that Google News will soon be going through some more changes. According to the report, Google News is getting a "new design" and will "incorporate elements of the [Google Play] Newsstand app and YouTube." The new Google News will reportedly be powered by Google's stripped-down, quick-loading AMP technology and is expected to launch at Google I/O 2018.
+
+Google has apparently been talking to publishers about the design, and AdAge quotes one anonymous publishing executive as saying, "It's a consolidation of all the ways you can interact with news on Google...There are a lot of Google services where you find news, and what they're trying to do is bring it all under one brand."
+
+A Google News redesign is surprising considering that the current design is less than a year old. It's unclear if the current design is just being tweaked to incorporate YouTube and Play Newsstand or if the whole thing is being scrapped and rebuilt. The report also mentions that Google News will get a new app.
+
+Google Play Newsstand is currently an odd hybrid of magazine store and RSS reader. The report says that Google Play Newsstand is going to close as part of the Google News redesign. This is the second time we've heard of a "Google Play" brand getting the axe: Google Play Music is also expected to close when it merges with YouTube.
+
+It sure sounds like the awkward "Google Play" branding is slowly dying across Google. The Google Play brand currently consists of the Google Play Store (Android's app store), Google Play Movies & TV, Google Play Music, Google Play Books, and Google Play Newsstand. It would be easy to imagine the media apps—Music and Movies & TV—all merging into YouTube. The Android app store needs to stick around, of course, and Google Books could go back to being a standalone service.
+
+We'll know a lot more after Google I/O kicks off next week, starting Tuesday, May 8.

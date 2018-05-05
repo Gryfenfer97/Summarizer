@@ -25,7 +25,6 @@ def summarize(path,sentence_number,lang):
 
     liste = create_list(lang)
     summary = summarizer(to_summarize,liste,sentence_number,topic_threshold=0.002)
-    #summary = summarizer(to_summarize,liste,sentence_number)
 
     return summary
 if __name__ == '__main__':
