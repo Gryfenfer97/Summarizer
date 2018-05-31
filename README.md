@@ -18,6 +18,6 @@ The syntax of the command is :
 
 - **input_file** The path of the file that you want to summarize
 - **sentance_number** the sentance number of the summary
-- **lang** lang of the file : {en;fr}
+- **lang** of the file : {en;fr}
 - **-o** is to precise that you want a HTML output file
 - **output_file** the name of the html file with the summmary
